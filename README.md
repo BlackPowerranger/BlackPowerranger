@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning about python, making little projects as i do, to help grow my portfolio. I do not have a distinct niche i want to join yet, but i am interested in data analytics and cybersecurity.
+I am currently learning Python, making little projects as i do, to help grow my portfolio. I do not have a distinct niche i want to join yet, but i am interested in data analytics and cybersecurity.
 
 
 ## 🌐 Socials:
